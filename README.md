@@ -11,6 +11,8 @@
 * [实现国际化方案](https://github.com/YIngChenIt/Blogs/issues/8)
 * [项目中统一loading处理 ](https://github.com/YIngChenIt/Blogs/issues/10)
 
+#### JS基础
+* [V8垃圾回收的那些事](https://github.com/YIngChenIt/Blogs/issues/12)
 
 #### Node
 * [基于Node实现视频流播放](https://github.com/YIngChenIt/Blogs/issues/3)
