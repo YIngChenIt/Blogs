@@ -13,6 +13,7 @@
 
 #### JS基础
 * [V8垃圾回收的那些事](https://github.com/YIngChenIt/Blogs/issues/12)
+* [实现符合A+规范的Promise](https://github.com/YIngChenIt/Blogs/issues/16)
 
 #### Node
 * [基于Node实现视频流播放](https://github.com/YIngChenIt/Blogs/issues/3)
