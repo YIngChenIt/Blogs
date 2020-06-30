@@ -24,5 +24,5 @@
 * [Node基础 - buffer](https://github.com/YIngChenIt/Blogs/issues/14)
 * [Node基础 - require](https://github.com/YIngChenIt/Blogs/issues/15)
 * [说说缓存那些事](https://github.com/YIngChenIt/Blogs/issues/13)
-* [手摸手撸一个mini-koa](https://github.com/YIngChenIt/Blogs/issues/20)
-* [koa中间件大揭秘](https://github.com/YIngChenIt/Blogs/issues/21)
+* [koa-手摸手撸一个mini-koa](https://github.com/YIngChenIt/Blogs/issues/20)
+* [koa-koa中间件大揭秘](https://github.com/YIngChenIt/Blogs/issues/21)
