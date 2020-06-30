@@ -18,6 +18,13 @@
 * [深拷贝和浅拷贝](https://github.com/YIngChenIt/Blogs/issues/18)
 * [高阶函数的应用](https://github.com/YIngChenIt/Blogs/issues/19)
 
+#### TS基础
+* [typescript(一) - 数据类型](https://github.com/YIngChenIt/Blogs/issues/23)
+* [typescript(二) - 函数](https://github.com/YIngChenIt/Blogs/issues/24)
+* [typescript(三) - 类](https://github.com/YIngChenIt/Blogs/issues/25)
+* [typescript(四) - 接口](https://github.com/YIngChenIt/Blogs/issues/26)
+* [typescript(五) - 泛型](https://github.com/YIngChenIt/Blogs/issues/27)
+
 #### Node
 * [基于Node实现视频流播放](https://github.com/YIngChenIt/Blogs/issues/3)
 * [Node基础 - events(观察者模式)](https://github.com/YIngChenIt/Blogs/issues/11)
