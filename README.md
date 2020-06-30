@@ -15,6 +15,8 @@
 * [V8垃圾回收的那些事](https://github.com/YIngChenIt/Blogs/issues/12)
 * [实现符合A+规范的Promise](https://github.com/YIngChenIt/Blogs/issues/16)
 * [generator及co库原理](https://github.com/YIngChenIt/Blogs/issues/17)
+* [深拷贝和浅拷贝](https://github.com/YIngChenIt/Blogs/issues/18)
+* [高阶函数的应用](https://github.com/YIngChenIt/Blogs/issues/19)
 
 #### Node
 * [基于Node实现视频流播放](https://github.com/YIngChenIt/Blogs/issues/3)
