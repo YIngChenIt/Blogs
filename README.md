@@ -10,7 +10,7 @@
 * [H5项目IOS和安卓兼容问题](https://github.com/YIngChenIt/Blogs/issues/47)
 
 #### CICD
-* [centos7中没有eth0解决方案](https://github.com/YIngChenIt/Blogs/issues/47)
+* [centos7中没有eth0解决方案](https://github.com/YIngChenIt/Blogs/issues/48)
 
 #### JS基础
 * [V8垃圾回收的那些事](https://github.com/YIngChenIt/Blogs/issues/12)
