@@ -9,6 +9,9 @@
 * [封装一个支持安卓多图上传的组件](https://github.com/YIngChenIt/Blogs/issues/6)
 * [H5项目IOS和安卓兼容问题](https://github.com/YIngChenIt/Blogs/issues/47)
 
+#### CICD
+* [centos7中没有eth0解决方案](https://github.com/YIngChenIt/Blogs/issues/47)
+
 #### JS基础
 * [V8垃圾回收的那些事](https://github.com/YIngChenIt/Blogs/issues/12)
 * [实现符合A+规范的Promise](https://github.com/YIngChenIt/Blogs/issues/16)
