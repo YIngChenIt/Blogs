@@ -11,6 +11,7 @@
 
 #### CICD
 * [centos7中没有eth0解决方案](https://github.com/YIngChenIt/Blogs/issues/48)
+* [安装Docker](https://github.com/YIngChenIt/Blogs/issues/49)
 
 #### JS基础
 * [V8垃圾回收的那些事](https://github.com/YIngChenIt/Blogs/issues/12)
