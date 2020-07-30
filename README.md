@@ -14,6 +14,7 @@
 * [安装Docker](https://github.com/YIngChenIt/Blogs/issues/49)
 * [安装jenkins](https://github.com/YIngChenIt/Blogs/issues/50)
 * [jenkins配置](https://github.com/YIngChenIt/Blogs/issues/51)
+* [CICD流程设计](https://github.com/YIngChenIt/Blogs/issues/52)
 
 #### JS基础
 * [V8垃圾回收的那些事](https://github.com/YIngChenIt/Blogs/issues/12)
