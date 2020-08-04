@@ -16,7 +16,7 @@
 * [jenkins配置](https://github.com/YIngChenIt/Blogs/issues/51)
 * [Nexus 制品库的介绍与安装](https://github.com/YIngChenIt/Blogs/issues/53)
 * [Jenkins 构建前端镜像并上传到制品库](https://github.com/YIngChenIt/Blogs/issues/54)
-* [Ansible 内的概念](https://github.com/YIngChenIt/Blogs/issues/55)
+* [Ansible 的介绍和安装](https://github.com/YIngChenIt/Blogs/issues/55)
 * [Ansible 内的概念](https://github.com/YIngChenIt/Blogs/issues/56)
 * [CICD流程设计](https://github.com/YIngChenIt/Blogs/issues/52)
 
