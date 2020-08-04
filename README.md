@@ -15,6 +15,7 @@
 * [安装jenkins](https://github.com/YIngChenIt/Blogs/issues/50)
 * [jenkins配置](https://github.com/YIngChenIt/Blogs/issues/51)
 * [Nexus 制品库的介绍与安装](https://github.com/YIngChenIt/Blogs/issues/53)
+* [Jenkins 构建前端镜像并上传到制品库](https://github.com/YIngChenIt/Blogs/issues/54)
 * [CICD流程设计](https://github.com/YIngChenIt/Blogs/issues/52)
 
 #### JS基础
