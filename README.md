@@ -18,6 +18,7 @@
 * [Jenkins 构建前端镜像并上传到制品库](https://github.com/YIngChenIt/Blogs/issues/54)
 * [Ansible 的介绍和安装](https://github.com/YIngChenIt/Blogs/issues/55)
 * [Ansible 内的概念](https://github.com/YIngChenIt/Blogs/issues/56)
+* [使用 Ansible 在多台机器部署制品](https://github.com/YIngChenIt/Blogs/issues/58)
 * [CICD流程设计](https://github.com/YIngChenIt/Blogs/issues/57)
 
 #### JS基础
