@@ -23,7 +23,7 @@
 
 #### 浏览器
 * [V8工作原理](https://github.com/YIngChenIt/Blogs/issues/59)
-* 
+* [宏观角度下的浏览器](https://github.com/YIngChenIt/Blogs/issues/60)
 #### JS基础
 * [V8垃圾回收的那些事](https://github.com/YIngChenIt/Blogs/issues/12)
 * [实现符合A+规范的Promise](https://github.com/YIngChenIt/Blogs/issues/16)
