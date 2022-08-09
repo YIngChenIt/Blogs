@@ -1,5 +1,8 @@
 ## 记录一些自己的博客
 
+#### 工程化
+* [pnpm构建Monorepo](https://github.com/YIngChenIt/Blogs/issues/1)
+* 
 #### 项目相关
 * [基于 qiankun 的h5移动端微前端改造踩坑日记](https://github.com/YIngChenIt/Blogs/issues/1)
 * [基于 page-skeleton-webpack-plugin 的骨架屏实现方案](https://github.com/YIngChenIt/Blogs/issues/2)
